@@ -7,6 +7,6 @@
 
     function Foo() {
       let vm = this;
-      this.stuff = 'SSSttttuuufffffSSSS';
+      vm.stuff = 'SSSttttuuufffffSSSS';
     }
 })();
